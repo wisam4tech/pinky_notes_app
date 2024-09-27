@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:notes_app/components/custom_app_bar_widget.dart';
 import 'package:notes_app/components/custom_textfield.dart';
-import 'package:notes_app/components/showSnackBar.dart';
+import 'package:notes_app/components/show_snack_bar.dart';
 import 'package:notes_app/cubits/notes_cubit/notes_cubit.dart';
 
 import 'package:notes_app/models/note_model.dart';

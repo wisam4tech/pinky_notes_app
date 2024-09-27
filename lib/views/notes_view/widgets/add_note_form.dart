@@ -4,7 +4,7 @@ import 'package:intl/intl.dart';
 import 'package:notes_app/components/constants.dart';
 import 'package:notes_app/components/custom_button.dart';
 import 'package:notes_app/components/custom_textfield.dart';
-import 'package:notes_app/components/showSnackBar.dart';
+import 'package:notes_app/components/show_snack_bar.dart';
 import 'package:notes_app/cubits/add_note_cubit/add_note_cubit.dart';
 import 'package:notes_app/models/note_model.dart';
 import 'package:notes_app/views/notes_view/widgets/colors_list_view_widget.dart';
